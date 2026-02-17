@@ -1,6 +1,1 @@
-clone-demo-project
-This file was edited after cloning the repository.
-===
-
-
-
+This line was added by a collaborator.
